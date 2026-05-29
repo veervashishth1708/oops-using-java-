@@ -45,5 +45,8 @@ class type {
         // substring
         System.out.println(name.substring(0,5));
 
+
+        
+
     }
 }
