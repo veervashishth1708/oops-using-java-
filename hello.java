@@ -3,12 +3,12 @@ class Main {
 
         System.out.print("Hello World from java ");
         //variable
-        string name = "veer";
+        String name = "veer";
         int age  = 19;
-        string neighboor = "akku";
+        String neighboor = "akku";
         int age2 = 45;
 
-        string  friend = neighboor;
+        String  friend = neighboor;
 
 
         // tyoes in java 
