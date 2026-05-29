@@ -29,7 +29,15 @@ class type {
 
         String name1 = "aman";
         String name2 = "akku";
-        String name3 = name1 + " and "+ name2;
+        String name3 = name1 + " and " + name2;
         System.out.println(name3);
+
+
+
+        //strings
+        //sharAt
+        String name4 = "Veer Vashishth";
+        System.out.println(name4.charAt(7));
+      
     }
 }
