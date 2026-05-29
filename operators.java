@@ -27,7 +27,11 @@ public class operators {
         System.out.println(numb++);
         System.out.println(++numb);
 
-
+        /*
+        numb--
+        --numb
+        
+        */
 
     }
 }
