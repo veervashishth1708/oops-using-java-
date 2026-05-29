@@ -27,7 +27,7 @@ class type {
 
         // string concatination
 
-        String name1 = "aman";
+        String name1 = "Aman";
         String name2 = "akku";
         String name3 = name1 + " and " + name2;
         System.out.println(name3);
@@ -39,7 +39,11 @@ class type {
         String name4 = "Veer Vashishth";
         System.out.println(name4.charAt(7));
         // replace
-        String name5 = name1.replace( 'a','n');
+        String name5 = name1.replace( 'A','n');
         System.out.println(name5);
+
+        // substring
+        System.out.println(name.substring(0,5));
+
     }
 }
