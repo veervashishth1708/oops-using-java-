@@ -17,5 +17,17 @@ public class operators {
         System.out.println(div);
         System.out.println(modulo);
 
+        // Assingment operator
+        /*
+
+         */
+        int numb =1 ;
+        // numb = numb + 1;
+        numb++;
+        System.out.println(numb++);
+        System.out.println(++numb);
+
+
+
     }
 }
