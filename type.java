@@ -35,9 +35,11 @@ class type {
 
 
         //strings
-        //sharAt
+        //charAt
         String name4 = "Veer Vashishth";
         System.out.println(name4.charAt(7));
-      
+        // replace
+        String name5 = name1.replace( 'a','n');
+        System.out.println(name5);
     }
 }
