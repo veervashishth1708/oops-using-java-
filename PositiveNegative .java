@@ -10,13 +10,11 @@ public class PositiveNegative {
         int num = sc.nextInt();
 
         if (num > 0) {
-            System.out.println(num + " is a Positive Number");
-        } 
-        else if (num < 0) {
-            System.out.println(num + " is a Negative Number");
-        } 
-        else {
-            System.out.println("The number is Zero");
+            System.out.println("Positive Number");
+        } else if (num < 0) {
+            System.out.println("Negative Number");
+        } else {
+            System.out.println("Zero");
         }
 
         sc.close();
