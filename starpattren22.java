@@ -15,5 +15,6 @@ public class starpattren22 {
 
         System.out.println("    *");
         System.out.println("    *");
+        System.out.println("     *");
     }
 }
