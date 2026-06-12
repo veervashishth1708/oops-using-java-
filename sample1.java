@@ -1,5 +1,6 @@
 class Animal {
     void eat() {
+        System.out.println("inheritance basic code ");
         System.out.println("Animal is eating");
     }
 }
